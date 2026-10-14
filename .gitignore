@@ -1,0 +1,21 @@
+# Live installation state is never part of the software distribution.
+data/
+**/Projects/
+**/backups/
+**/*-Backups/
+**/dashboard*.json
+**/document_state.json
+**/config.json
+**/.pace-id.json
+**/assets/
+*.log
+*.tmp
+*.partial
+*.pdf
+*.zip
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+.DS_Store
