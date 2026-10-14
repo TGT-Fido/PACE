@@ -1,0 +1,114 @@
+[
+  {
+    "file": "01-Dark-Hexagons.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "8f5800dfb7ca2c52ca08edb43c0680dfc5889d346d885ea421587019958f4af6",
+    "origin": "Generated for PACE",
+    "gps_exif_present": false
+  },
+  {
+    "file": "02-Pastel-Mesh-Landscape.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "742c9b0edbe1d79fcd8695fe11634738e4df0509215e3e3313de1111aed65a01",
+    "origin": "Generated for PACE",
+    "gps_exif_present": false
+  },
+  {
+    "file": "03-Pastel-Mesh-Portrait.png",
+    "width": 941,
+    "height": 1672,
+    "sha256": "568efe4700021693afa84d08165efee124e230a430fa282b6621333af0ca333d",
+    "origin": "Generated for PACE",
+    "gps_exif_present": false
+  },
+  {
+    "file": "Beige.jpg",
+    "width": 2048,
+    "height": 1365,
+    "sha256": "6d77d404d7afb2871daebd6efdb933ab8184d1d35ef6829a3002f773ecab4a78",
+    "origin": "User-supplied",
+    "gps_exif_present": false
+  },
+  {
+    "file": "Dark.jpg",
+    "width": 2048,
+    "height": 1152,
+    "sha256": "3930a563246c81d67f6d1ba58b1e5ccfee0e1141b6ac7be4478209be31bcd345",
+    "origin": "User-supplied",
+    "gps_exif_present": false
+  },
+  {
+    "file": "Mountain.jpg",
+    "width": 2048,
+    "height": 1365,
+    "sha256": "810e007394aeeec194ffece712cea972e55f676739717bc797726f5d1573f7ba",
+    "origin": "User-supplied",
+    "gps_exif_present": false
+  },
+  {
+    "file": "Sakura-sci.jpg",
+    "width": 2048,
+    "height": 1170,
+    "sha256": "1e6f78a084bfa9b1f0b37917f4ede4cb474ccf99c8424f3dd930ed4e33120475",
+    "origin": "User-supplied",
+    "gps_exif_present": false
+  },
+  {
+    "file": "Vertical-Gradiant.jpg",
+    "width": 994,
+    "height": 2048,
+    "sha256": "d600a8890d19a72a62e22773e94694e9e47a743b6791d3c827d9abb77dc0fb8a",
+    "origin": "User-supplied",
+    "gps_exif_present": false
+  },
+  {
+    "file": "Wallpaper-06_20_31-PM-1.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "c2ec314e4a04de9adafa72a8f270b6561e0d6ed7b0dad39c5266118fa18fe53c",
+    "origin": "User-supplied",
+    "gps_exif_present": false
+  },
+  {
+    "file": "Wallpaper-06_20_32-PM-2.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "0b28a1c92d54c9aa81b7bb1bc9d4284df4e1abf931ac293c58480f076b3bbed8",
+    "origin": "User-supplied",
+    "gps_exif_present": false
+  },
+  {
+    "file": "Wallpaper-06_20_33-PM-3.png",
+    "width": 941,
+    "height": 1672,
+    "sha256": "7e0461219d006e1410496fd38c5aa4a100aaa76b9e276ff905b93e30177caefb",
+    "origin": "User-supplied",
+    "gps_exif_present": false
+  },
+  {
+    "file": "Wallpaper-06_29_57-PM-1.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "5ca789fbfcd315970407754dc8a64412d8f71c5edc5e369991e31fd96b974766",
+    "origin": "User-supplied",
+    "gps_exif_present": false
+  },
+  {
+    "file": "Wallpaper-06_29_58-PM-2.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "04ad69d2bb27cc44a45464c1dd05475d72bc892609ca058e65415a874ca3e58e",
+    "origin": "User-supplied",
+    "gps_exif_present": false
+  },
+  {
+    "file": "Wallpaper-06_29_59-PM-3.png",
+    "width": 941,
+    "height": 1672,
+    "sha256": "dd6a9e10fe30e5ee04069aefc27b089c4a66a738f82b34986ed7b60160065ac9",
+    "origin": "User-supplied",
+    "gps_exif_present": false
+  }
+]
