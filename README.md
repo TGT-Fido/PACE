@@ -19,3 +19,8 @@ Keep a full backup of the old installation, especially `data`. Exit the older PA
 The source/portable ZIP contains the same runtime and app. Extract it to a writable folder and run `START_PACE.cmd`. Do not run from inside the ZIP. Linux/macOS developers can use Python 3.10+ with `python app/server.py --open`; the Windows tray and bundled runtime are Windows-only.
 
 V7.1 GitHub update deployment is a subsequent test, after the repository and release assets are configured. This package does not claim a completed end-to-end GitHub update test.
+
+
+
+to download go to Releases:
+https://github.com/TGT-Fido/PACE/releases
